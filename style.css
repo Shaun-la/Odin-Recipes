@@ -1,0 +1,47 @@
+
+
+
+.food { 
+    border: dashed;
+    border-color: lightskyblue;
+    border-width: 13px;
+   
+}
+.odin{text-align: center;
+    color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+}
+
+.barn {transition:cubic-bezier(1, 0, 0, 1);
+    transition-duration: 5s;
+    transform-origin: left;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+.doggy {transition:cubic-bezier(1, 0, 0, 1);
+    transition-duration: 5s;
+    transform-origin: left;
+    gap: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+   
+}
+
+.food { 
+    border: dashed;
+    border-width: 13px;
+}
+        
+.cat{text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    
+    }
