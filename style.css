@@ -8,7 +8,6 @@
    
 }
 .odin{text-align: center;
-    color: lightskyblue;
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
 
@@ -45,3 +44,29 @@
         font-size: 20px;
     
     }
+
+li {
+    border: 1px;
+    border-style: solid;
+    padding: 10px;
+}
+
+ol {
+    border: 1px;
+    border-style: solid;
+    padding: 25px;
+    margin: 1px;
+}
+
+ul {
+    border: 1px;
+    border-style: solid;
+    padding: 25px;
+    margin: 1px;
+}
+.pa {
+    border: 1px;
+    border-style: solid;
+    padding: 10px auto;
+    margin: 1px;
+}
